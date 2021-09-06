@@ -1,0 +1,53 @@
+nodejs root# nkdir academic-rest-api
+nodejs root# git init
+nodejs root# npm init
+
+academic-rest-api root# npm i mongoose -- save
+
+academic-rest-api root# npm i config -- save
+
+academic-rest-api root# npm i mongoose-unique-validator -- save
+
+academic-rest-api root# npm install crypto-js -- save
+
+academic-rest-api root# npm i express config --save
+
+academic-rest-api root# node .
+
+academic-rest-api root# nodemon . 
+
+academic-rest-api root# node .  
+
+academic-rest-api root# nodemon . 
+
+academic-rest-api root# nodemon .    
+
+academic-rest-api root# nodemon .   
+
+academic-rest-api root# nodemon . 
+
+academic-rest-api root# node .  
+
+academic-rest-api root# node .
+
+academic-rest-api root# git status  
+
+academic-rest-api root# node .
+
+academic-rest-api root# node .
+
+academic-rest-api root# nodemon .
+
+academic-rest-api root# npm i jsonwebtoken --save
+
+academic-rest-api root# nodemon .
+
+academic-rest-api root# add . 
+
+academic-rest-api root# git add . 
+
+academic-rest-api root# git commit -m "login and token"
+
+academic-rest-api root# nodemon .
+
+academic-rest-api root# nodemon .
